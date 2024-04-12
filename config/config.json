@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xCaAb37301792f4D99Cd8437C91Fee827091C115C",
+  "SCAN_LINK": "https://basescan.org/token/0xCaAb37301792f4D99Cd8437C91Fee827091C115C",
+  "NETWORK": {
+    "NAME": "Base",
+    "SYMBOL": "ETH",
+    "ID": 8453
+  },
+  "NFT_NAME": "Meta Catz",
+  "SYMBOL": "$CATZ",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 3000000000000000,
+  "DISPLAY_COST": 0.003,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/metacatz-2",
+  "SHOW_BACKGROUND": true
+}
